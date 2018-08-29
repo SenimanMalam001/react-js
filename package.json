@@ -1,0 +1,37 @@
+{
+  "name": "simklinik-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "firebase": "^5.4.1",
+    "i": "^0.3.6",
+    "jquery": "^3.3.1",
+    "moment": "^2.22.1",
+    "rc-datetime-picker": "^1.6.1",
+    "react": "^16.3.2",
+    "react-currency-format": "^1.0.0",
+    "react-data-export": "^0.4.2",
+    "react-datetime-picker": "^1.3.1",
+    "react-dom": "^16.3.2",
+    "react-modal": "^3.4.4",
+    "react-paginate": "^5.2.3",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "react-select": "^1.2.1",
+    "react-shortcut": "^1.0.6",
+    "react-spinners": "^0.3.2",
+    "react-swal": "^3.0.0",
+    "react-to-print": "^1.0.16",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.2.0",
+    "sweetalert2-react": "^0.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
